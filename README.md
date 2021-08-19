@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Pedro Leao Desenvolverdor Mercado Livre 
+## Desenvolvedor Mercado Livre 
  <div>
   <a href="https://github.com/pedroallima">
   <img height="40%" src="https://github-readme-stats.vercel.app/api?username=pedroallima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
